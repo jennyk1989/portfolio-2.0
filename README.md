@@ -3,6 +3,6 @@
 Updated Portfolio
 
 ## Link
-https://jennyk1989.github.io/portfolio-2.0/
+https://jennykeene.github.io/portfolio-2.0/
 
 ## Screenshot
